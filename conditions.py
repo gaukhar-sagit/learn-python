@@ -1,6 +1,6 @@
-# Условие: вывести наименьшее число из последовательности, если она строго возрастающая
-# Программа сравнивает a, b, c, d и выводит минимальное из них,
-# в зависимости от того, какие из них образуют возрастающую последовательность
+# Task: Conditional Statements
+# Description: Print the smallest number from a strictly increasing subsequence
+# The program compares a, b, c, d and prints the minimum based on the increasing pattern
 
 a, b, c, d = int(input()), int(input()), int(input()), int(input())
 if a < b < c < d:
@@ -14,5 +14,5 @@ else:
         else:
             print(d)
 
-# Источник: Stepik "Программирование на Python"
-# Категория: Условный оператор (if-else)
+# Source: Stepik "Programming in Python"
+# Topic: Conditional statements (if-else)

@@ -48,8 +48,8 @@ learn-python-gaukhar/
 ├── README.md                      # You are here
 ├── projects/                      # Mini-projects will be added here
 │   └── (coming soon)
-├── progress/                      # Monthly progress tracking (optional)
-│   └── august-log.md (optional)
+├── progress/                      # Monthly progress tracking 
+│   └── july-log.md 
 ├── notebooks/                     # Jupyter notebooks (future AI work)
 │   └── (to be added)
 ├── learn-kaggle/                  # Kaggle practice files
